@@ -1,0 +1,26 @@
+
+h1 {
+    text-align: center;
+    font-size: 75px;
+}
+
+
+
+.area {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+    
+}
+
+.container {
+    background-color: red;
+    width: 320px;
+    height: 320px;
+    margin: auto;
+    margin-top: 200px;    
+}
+
